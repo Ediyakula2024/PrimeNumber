@@ -6,6 +6,8 @@ class ArrayListDemo{
         s.add("varaprasad");
         s.add(25);
         s.add(3.14);
-        System.out.println(s);
+        for(Object r:s){
+            System.out.println(r);
+        }
     }
 }
