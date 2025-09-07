@@ -15,3 +15,8 @@ class TargetSum{
     System.out.println(s);
     }
 }
+
+/* Output
+java TargetSum      
+[0,2]
+*/
